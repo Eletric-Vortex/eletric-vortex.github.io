@@ -1,0 +1,54 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: EletricBlog
+email: eletricvortex@proton.me
+description: >- # this means to ignore newlines until "baseurl:"
+  🌟 Explore o Mundo, Um Post de Cada Vez! 🌟
+  Bem-vindo ao seu portal de descobertas, onde a curiosidade encontra a inspiração! Aqui, mergulhamos em uma variedade de tópicos que vão desde os segredos do cotidiano até as maravilhas do desconhecido. Seja você um amante da natureza, um aficionado por cultura, ou alguém que simplesmente adora aprender algo novo a cada dia, nosso blog é o lugar onde a diversidade de ideias se encontra para inspirar, educar e encantar. Junte-se a nós nessa jornada de descobertas, onde cada post é uma nova janela para o mundo que nos rodeia! 🌍✨📚
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://eletric-vortex.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: none
+github_username:  Eletric-Vortex
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
