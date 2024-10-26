@@ -23,7 +23,7 @@ email: eletricvortex@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   🌟 Explore o Mundo, Um Post de Cada Vez! 🌟
   Bem-vindo ao seu portal de descobertas, onde a curiosidade encontra a inspiração! Aqui, mergulhamos em uma variedade de tópicos que vão desde os segredos do cotidiano até as maravilhas do desconhecido. Seja você um amante da natureza, um aficionado por cultura, ou alguém que simplesmente adora aprender algo novo a cada dia, nosso blog é o lugar onde a diversidade de ideias se encontra para inspirar, educar e encantar. Junte-se a nós nessa jornada de descobertas, onde cada post é uma nova janela para o mundo que nos rodeia! 🌍✨📚
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eletric-vortex.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
 github_username:  Eletric-Vortex
